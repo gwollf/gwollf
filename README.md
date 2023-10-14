@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @gwolf
+# 👋 Hi, I’m @gwollf
 
 ## 👀 I’m interested in
 - Robotics
